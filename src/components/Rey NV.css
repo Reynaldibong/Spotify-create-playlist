@@ -1,0 +1,45 @@
+.navbar {
+  background-color: #101010;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  max-width: 100vw;
+  /* width: 100vw; */
+  padding-left: 393px;
+}
+.penampungarrow {
+  width: 88px;
+  height: 30px;
+}
+
+.line {
+  border-right: 1px;
+  width: 70%;
+  /* width: 100%; */
+  height: 0.1px;
+}
+
+.button1 {
+  width: 90px;
+  /* height: 50%; */
+  border-radius: 20px;
+  padding: 5px 0px;
+  border: 1px solid #bababa;
+  color: #ffffff;
+  font-size: 15px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.account {
+  width: 150px;
+  height: 60%;
+  border-radius: 20px;
+  color: #ffffff;
+  background-color: black;
+  font-size: 15px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}

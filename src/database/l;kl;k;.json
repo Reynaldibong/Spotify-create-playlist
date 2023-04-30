@@ -1,0 +1,253 @@
+[
+  {
+    "imgURL": "data:image/jpeg;base64,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",
+    "playlist": "DiproCSS.HTML",
+    "desc": "DCH",
+    "id": "1",
+    "type": "",
+    "list": [
+      {
+        "id": 1,
+        "title": "Pagodão do Birimbola ( Tchubirabirom )",
+        "singer": "Machadez, Os Quebradiras",
+        "src": "Pagodão do Birimbola ( Tchubirabirom ) - Machadez, Os Quebradiras, Mousik - lyrics.mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      },
+      {
+        "id": 2,
+        "title": "Dawin",
+        "singer": "Dessert",
+        "src": "Dawin - Dessert (Official Lyric Video).mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      },
+      {
+        "id": 3,
+        "title": "Whistle [Official Video]",
+        "singer": "Flo Rida",
+        "src": "Flo Rida - Whistle [Official Video].mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      }
+    ],
+    "createBy": "spotify"
+  },
+  {
+    "imgURL": "data:image/jpeg;base64,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",
+    "playlist": "Song Title",
+    "desc": "Playlist Name",
+    "id": "2",
+    "type": "",
+    "list": [
+      {
+        "id": 4,
+        "title": "Timber (Official Video) ft. Ke$ha",
+        "singer": "Pitbull",
+        "src": "Pitbull - Timber (Official Video) ft. Ke$ha.mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "title": "Starships",
+        "singer": "Machadez, Os Quebradiras",
+        "src": "Starships.mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      }
+    ],
+    "createBy": "spotify"
+  },
+  {
+    "imgURL": "data:image/jpeg;base64,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",
+    "playlist": "Song Title",
+    "desc": "Playlist Name",
+    "id": "3",
+    "type": "",
+    "list": [
+      {
+        "id": 1,
+        "title": "Pagodão do Birimbola ( Tchubirabirom )",
+        "singer": "Machadez, Os Quebradiras",
+        "src": "Pagodão do Birimbola ( Tchubirabirom ) - Machadez, Os Quebradiras, Mousik - lyrics.mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      },
+      {
+        "id": 2,
+        "title": "Dawin",
+        "singer": "Dessert",
+        "src": "Dawin - Dessert (Official Lyric Video).mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      },
+      {
+        "id": 3,
+        "title": "Whistle [Official Video]",
+        "singer": "Flo Rida",
+        "src": "Flo Rida - Whistle [Official Video].mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      }
+    ],
+    "createBy": "spotify"
+  },
+  {
+    "imgURL": "data:image/jpeg;base64,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",
+    "playlist": "Song Title",
+    "desc": "Playlist Name",
+    "id": "4",
+    "type": "",
+    "list": [
+      {
+        "id": 4,
+        "title": "Timber (Official Video) ft. Ke$ha",
+        "singer": "Pitbull",
+        "src": "Pitbull - Timber (Official Video) ft. Ke$ha.mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "title": "Starships",
+        "singer": "Machadez, Os Quebradiras",
+        "src": "Starships.mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      }
+    ],
+    "createBy": "spotify"
+  },
+  {
+    "imgURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAHsAuQMBIgACEQEDEQH/xAAbAAEAAwEBAQEAAAAAAAAAAAAAAQQFAwYCB//EADoQAAICAgADBQUGBQIHAAAAAAECAAMEEQUSIRMxQVFhBiJxgZEUMkJSobEjYrLB0RVyMzVUY4Lw8f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD9xiIgIiICIiAiIgJXzL/s1XalSyKRza7wPOdz0HSY7X5vEL78RBVVUoKvci9qD5rs6G/TRgaVGVTkc4psVmQ6dfFT6jvE7AykeF4zVVI6szVIEW3mIs0P5howMGyvpXn5ajwDFX/qUn9YF3cmUFq4lUvTKpv14W1cpPzU/wBp9VZ5F4oyqjRa33NnaWf7W8/Q6MC7EiIExEiBMREBERAREQEREBERAREQEbiVs25qUVa+ttrBKxrxPj8ANn5QOdytlu9KllpHSxlOix/KPL1Pr8ZaqRa0CIoVVGlUdwEiipaa1RO4D6+s+4EcwDBd9T3CfUq1kWZ1jA7WtAo+JJJ/YS1AjU5ZeNXl0PRevNW40RvX0PgZ2iBnV33Ydi15rCypiFTIA17x6aceBPge4+nTegJ8W013VNXaoZGGmU9xlfh1rctmNY5e7HblYnvKnqp+n6gwLkREBERAREQEREBERAREQERPix+RSQrNrwXvMCLbkqrayxgqqNkmUcauyzKszskFQqlKUPeidCSfU6H0nHIOWjtlZFCtTWQVr7Tqo31bWtFvn4fOaGQTyJWNe+4U78u8/oDA+rrCtQPcWZQPmZ9WNyoSO/wnHiB1XSf+/X/UJV47l24uIxx057jpal/M56KP7n4QJ4TkVXZPEuzcN2OQK31+EitNj9Zp7nn+H4ycFxsmjbMzVpa7k7L2NtWPx2B9Zuofd+ED4DsMrkOuUptfr1/cTqTqYXGMnLx+IY2Tje/j01WHJq11KllAYeo0T6jc1rmFuMTXYNOvusp8+4wLEpZDCjiGNZ3C7dLep0WXf0b6y1TYLaUsHc6hh85w4lU9uMRV/wAVCHQeZUg6+etfOBaicse9MipLaztWGxsaP/2dYCIiAiIgIiICIiAiIgJGpMiBX4j/AMvyfSpj+kOefLpX8IRn+fQD9zOfGSf9IzQO80OB8SCBKfPkJmVM5CoFVOXxfSkk68Bv9oHb2js7DgmXeW5exTtQfVeo/UCV3qysrOW+vKpK0LzIHqPKXYejeC/1T69o8qn/AEC5yQ63IBWmt9oT1C/ofh18p+ee1ufx/wBnuIriU8St+xtjLYo7CsqW2RyglCToKvX/ADA9tx4Z1mG4akVXMnZ9tW3Mg2QQ3dsaIHf4Hxmrw3Ke3ELXLy3p7tqflcd4/wDfOZXshZdxb2YRs5qn+0IQxqTk69x6bIB2PD0M18qk1MMisAtoLb/Mv5viP23AzsZsvIzsi7DqrWtVSjtMnYGl2xIUdfxeJHdOuNVk4fPiNdUa6156x2R0FO+g97uB2NeA1PH+2fF+IcKTBbh9lCfbHaw2W1G1gOpJAJ0NDQ7uvynT2czuK8V4bnZ+XxCzJTHdsdkWhAyoyqSw5QCSN716dPKB+gYC8uFjr5VKP0E+c/IOLjPkcoZK1LP39wnHh2QicExch2BQYyOWHXY5R3Tjk2NdwnOrKkWLW/MviNrzAfqIHzXdlpa1i8PyER23YnOhHd95dNvfp4/vqodrvRHxk9D1EQJiRJgIiICIiAiIgIiICRJiBR4q5GOiKvOz3IAn5tMCR9BMTJru4fxG3Nzbu0WypLG0OiFBYCqjy95dDv38Z6jlBYE947ph+1HD3zRhdjzdoLigIGwgZTtz8NCBlYleLYf9DzCzsCbKWdversZdnlPh9469CR8dHI4ceIU4l+RSuRy1dlkVKdFiOnQ7Hcebpvx9OuBYtmPxMW8Vq5glxqtKn3XVtDn8+g5W6d3j3T2nD8V8RbENvaIzcwYjTb8d+Z9YHxwfFOJicjJ2Zax35Oh5dn0+vzl1gGBBGwRJ8J8VKyLp35zzE714b6D6dIGNxvh625GPacJ8qlaLaWqq0DpgNDqR01vxnGvh5wODZT5ZRBaXvyxX05hy/dB89AAn4+c9FqZHtHkVrTj4jgu2Tco7NepZV94gD10B/wCUChxh0pwsDgmO5ptyAK61r0G5U6trfQdBofPy1OZ45jYlouzFtUWnsclmrI95SVD68VYAgkb17sz8Ky/K41XlWLzZlxIpGvdrr394eY0P0+U9nVi1DGSh1Fir+cb2d73A48GsFnD6h2otKDs+cHYbXQH5jR+cuyvTg49GQ91NfZu/3+QkBviO7frLMBERAREQEREBERAREQEiTEBIMmIHnvajCXJxsmlsZMn7TTy11v0HbA8qnfh0b6CdfZriqZeMuJc3Ll0DkZWPVwp5eb47HUeB+ROw9KO6Ow2yElT5EjX7Ty/tJwO7I4kuVgc6WCtrjydOd1AXl34Eg7B81geotdlrJRC58FBAJ+sh2cKClfMSeoLAamBwnjt3YXvxJB9nosCfalO+hRW26ju+93jp56mzZxDErpS1sispZ9wqebn+AHf8oFqeX9o8vGTJYUnebpaHu/6dG6kD+ZgPDr3EkdJy49xXiVppx8ULiU5BYczH+M2tdB4LvevP4eFn2d4bRbQb7EDVmrswhHunmALkjzPQfKBd4Rw7CxMu4YVFVVVIFSrWgHvEbY9PP3R8prytw/G+yY60glgpOmJ6keG/M6lqAiIgIiICIiAiIgIiICIiAkSYgI3M2mzLzrMjksWjHV+Sp1UMz67269AN7Hd4TjlcNJIazNzrG14XMo+PLWBuBqu6IpZ2CqO8k6AmJxT2s4Tw2t3e57io2RRWWHp733f1nwvDcFXOVkBsrKQfwjlBuSv/AGhu71Pf6ycXDqWy+oXC83uL0uddgWj8I8NDQIA/m+MDl7G7yMXiOQ1NiU5WWbKq7VGwhROnw75LezteDfbdwqta1sHWtRrR/wAek3sZg9asBon7w8j4iRmMwx3CHTMOVT5E9IHlKQld/COJZrucde1ZOStiF2BokfInep6jh/2Q4qfYHrfH6lTW3MOp33/ORa9eJTXUlfOdclVS97aHd8J5vH4BiYl9FGL2oItdsu2u1kG7N6A0R1BII8gPWB64SZj4rcXrR67Hxsm2o6IZTWXHgeYEjqPQdQZaTiBVd5OLkUkd55OcD5ruBeicqL6shA9NiWISRzI2xudYCIiAiIgIiICIiAiIgJT4m1hxzVQ5S67+GjjvXfe3yGz8pclZgGz1315ajr02YHGxUoqqqp5krpKoeU60p6a/vLoGgB5ecrZSgYt+h3gkztcSKGIPhA+VRLz2joGH4Qw7h5xl0tbSRUQti+9Wx7gw7t+k7L3CTAzKMrTG0KQpblvTxrbz+Hn9ZYyrVBrZR2rb9xF8T/Yd/WV8s9lxGhq/dNgYPr8Wh03NBQPIfSBnpj3ly/ODkN0a7Xu1r+VAf3+vlLVWHTXXyKmhvZ672fM+Z9ZYHSTArPjnmVqG7NlGu7oR8JD32VKe0q6j7vKdhj+8tTif+OT+VOnpvf8AgQKC4n2XNx8hHHaXkpksBoWnlJB15gjQ9Dqasz8s8mDUV6Fb6wD5fxAP2M0ICIiAiIgIiIH/2Q==",
+    "playlist": "Song Title",
+    "desc": "Playlist Name",
+    "id": "5",
+    "type": "",
+    "list": [
+      {
+        "id": 1,
+        "title": "Pagodão do Birimbola ( Tchubirabirom )",
+        "singer": "Machadez, Os Quebradiras",
+        "src": "Pagodão do Birimbola ( Tchubirabirom ) - Machadez, Os Quebradiras, Mousik - lyrics.mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      },
+      {
+        "id": 2,
+        "title": "Dawin",
+        "singer": "Dessert",
+        "src": "Dawin - Dessert (Official Lyric Video).mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      },
+      {
+        "id": 3,
+        "title": "Whistle [Official Video]",
+        "singer": "Flo Rida",
+        "src": "Flo Rida - Whistle [Official Video].mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      }
+    ],
+    "createBy": "spotify"
+  },
+  {
+    "imgURL": "data:image/jpeg;base64,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",
+    "playlist": "Song Title",
+    "desc": "Playlist Name",
+    "id": "6",
+    "type": "",
+    "list": [
+      {
+        "id": 4,
+        "title": "Timber (Official Video) ft. Ke$ha",
+        "singer": "Pitbull",
+        "src": "Pitbull - Timber (Official Video) ft. Ke$ha.mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "title": "Starships",
+        "singer": "Machadez, Os Quebradiras",
+        "src": "Starships.mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      }
+    ],
+    "createBy": "spotify"
+  },
+  {
+    "imgURL": "data:image/jpeg;base64,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",
+    "playlist": "Song Title",
+    "desc": "Playlist Name",
+    "id": "7",
+    "type": "",
+    "list": [
+      {
+        "id": 1,
+        "title": "Pagodão do Birimbola ( Tchubirabirom )",
+        "singer": "Machadez, Os Quebradiras",
+        "src": "Pagodão do Birimbola ( Tchubirabirom ) - Machadez, Os Quebradiras, Mousik - lyrics.mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      },
+      {
+        "id": 2,
+        "title": "Dawin",
+        "singer": "Dessert",
+        "src": "Dawin - Dessert (Official Lyric Video).mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      },
+      {
+        "id": 3,
+        "title": "Whistle [Official Video]",
+        "singer": "Flo Rida",
+        "src": "Flo Rida - Whistle [Official Video].mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      }
+    ],
+    "createBy": "spotify"
+  },
+  {
+    "imgURL": "data:image/jpeg;base64,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",
+    "playlist": "Song Title",
+    "desc": "Playlist Name",
+    "id": "8",
+    "type": "",
+    "list": [
+      {
+        "id": 4,
+        "title": "Timber (Official Video) ft. Ke$ha",
+        "singer": "Pitbull",
+        "src": "Pitbull - Timber (Official Video) ft. Ke$ha.mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "title": "Starships",
+        "singer": "Machadez, Os Quebradiras",
+        "src": "Starships.mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      }
+    ],
+    "createBy": "spotify"
+  },
+  {
+    "imgURL": "data:image/jpeg;base64,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",
+    "playlist": "Song Title",
+    "desc": "Playlist Name",
+    "id": "9",
+    "type": "",
+    "list": [
+      {
+        "id": 1,
+        "title": "Pagodão do Birimbola ( Tchubirabirom )",
+        "singer": "Machadez, Os Quebradiras",
+        "src": "Pagodão do Birimbola ( Tchubirabirom ) - Machadez, Os Quebradiras, Mousik - lyrics.mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      },
+      {
+        "id": 2,
+        "title": "Dawin",
+        "singer": "Dessert",
+        "src": "Dawin - Dessert (Official Lyric Video).mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      },
+      {
+        "id": 3,
+        "title": "Whistle [Official Video]",
+        "singer": "Flo Rida",
+        "src": "Flo Rida - Whistle [Official Video].mp3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+      }
+    ],
+    "createBy": "spotify"
+  }
+]

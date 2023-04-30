@@ -1,0 +1,377 @@
+.App {
+	text-align: center;
+}
+
+.App-logo {
+	height: 40vmin;
+	pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+	.App-logo {
+		animation: App-logo-spin infinite 20s linear;
+	}
+}
+
+.App-header {
+	background-color: #282c34;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
+}
+
+.App-link {
+	color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+.red {
+	color: blue;
+	background-color: red;
+}
+
+.imotherside {
+	width: 393px;
+	height: 100vh;
+	background-color: black;
+	padding-top: 24px;
+	z-index: 0;
+}
+
+.ilogo {
+	padding: 0 24px;
+	margin-bottom: 18px;
+	width: 345px;
+	height: 48px;
+}
+
+.ilogo img {
+	height: 80%;
+}
+
+.imenus {
+	width: 393px;
+	height: 120px;
+	/* background-color: aliceblue; */
+}
+
+.item {
+	display: flex;
+	flex-direction: row;
+	width: 393px;
+	height: 40px;
+	padding: 0 16px;
+	/* background-color: blanchedalmond; */
+}
+
+.imenus3 {
+	/* background-color: aqua; */
+	font-family: CircularStd, sans-serif;
+	color: #b3b3b3;
+	width: auto;
+	height: 40px;
+	padding: 0 20px;
+	font-size: 15px;
+	padding-top: 9px;
+	transition: 0.7s;
+	cursor: pointer;
+}
+
+.imenus3:hover {
+	color: white;
+}
+
+.isvg {
+	padding: 7px 0 0 10px;
+	fill: #b3b3b3;
+	transition: 0.7s;
+	cursor: pointer;
+}
+
+.isvg:hover {
+	fill: white;
+}
+
+.ireacticon {
+	color: #b3b3b3;
+	transition: 0.5s;
+	cursor: pointer;
+}
+
+.ireacticon:hover {
+	color: white;
+}
+
+.iplaylist {
+	width: 393px;
+	height: 586px;
+	/* background-color: rgb(69, 106, 106); */
+	margin-top: 24px;
+}
+
+.ilike {
+	width: 24px;
+	height: 24px;
+	-webkit-box-pack: center;
+	-webkit-box-align: center;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	background: linear-gradient(135deg, rgb(69, 10, 245), rgb(196, 239, 217));
+	border-radius: 2px;
+	height: 24px;
+	/* position: absolute; */
+	width: 24px;
+	border: 0px;
+	/* margin: 0px; */
+	margin-left: 10px;
+	margin-top: 7px;
+	/* padding: 0px; */
+	vertical-align: baseline;
+	cursor: pointer;
+}
+
+.iseparator {
+	width: 350px;
+	margin: 9px 27px;
+	border-bottom: 1px solid rgb(254, 254, 254, 0.3);
+}
+.ipadding {
+	height: 16px;
+	width: 393px;
+	/* background-color: aliceblue; */
+}
+
+.imyplaylist {
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+	width: 100%;
+	max-height: 100%;
+}
+
+.imyplaylist:hover {
+	overflow: scroll;
+}
+
+.iplaylistcard {
+	/* padding-top: 5px; */
+	width: 393px;
+	height: 32px;
+	/* padding: initial; */
+	/* padding-left: 24px; */
+	padding: 5px 0 5px 24px;
+	font-size: 14px;
+	color: #b3b3b3;
+	cursor: pointer;
+}
+
+.iplaylistcard:hover {
+	color: white;
+}
+
+.iinstall {
+	bottom: 90px;
+	position: fixed;
+	background-color: rgb(0, 0, 0);
+}
+
+/* PLAYBAR STARTS HERE  */
+.imotherplaybar {
+	z-index: 3;
+	height: 90px;
+	width: 100vw;
+	bottom: 0;
+	left: 0;
+	position: fixed;
+	border-top: #b3b3b3;
+	background-color: #181818;
+	padding: 16px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.iplaybarseca {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	/* border: 1px solid crimson; */
+	height: 100%;
+	width: 33.33%;
+}
+.ialbum {
+	height: 56px;
+	width: 56px;
+}
+
+.iplaybarsecc {
+	/* border: 1px solid crimson; */
+	height: 100%;
+	width: 33.33%;
+}
+
+.ialbum img {
+	height: 100%;
+	width: 100%;
+}
+
+.isongtitle {
+	height: 39px;
+	width: fit-content;
+	/* background-color: rgb(51, 16, 163); */
+	margin-left: 0.7738vw;
+	padding-right: 1.785vw;
+}
+
+.isongtitlenow {
+	font-family: CircularStd, sans-serif;
+	font-size: 14px;
+	color: white;
+}
+
+.iartist {
+	font-family: CircularStd, sans-serif;
+	font-size: 11px;
+	color: #b3b3b3;
+}
+
+.iplaybarsecb {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	/* border: 1px solid crimson; */
+	height: 100%;
+	width: 33.33%;
+}
+
+.icontrol {
+	height: 57.142%;
+	width: 100%;
+	/* background-color: aqua; */
+	display: flex;
+	flex-direction: row;
+}
+
+.icontrolleft {
+	width: calc((100%-32px) / 2);
+	height: 100%;
+	/* background-color: chocolate; */
+	display: flex;
+	flex-direction: row-reverse;
+	/* row-gap: 16px; */
+}
+
+.iplaybutton {
+	--button-size: 32px;
+	-webkit-box-align: center;
+	-webkit-box-pack: center;
+	align-items: center;
+	background-color: rgb(255, 255, 255);
+	border: none;
+	border-radius: var(--button-size);
+	color: rgb(0, 0, 0);
+	display: flex;
+	height: var(--button-size);
+	justify-content: center;
+	min-width: var(--button-size);
+	position: relative;
+	width: var(--button-size);
+	outline: none;
+	padding: 0px;
+	margin: 0 8px;
+}
+
+.icontrolright {
+	width: calc((100%-32px) / 2);
+	height: 100%;
+	/* background-color: chocolate; */
+	display: flex;
+	flex-direction: row;
+}
+
+.iduration {
+	height: 19px;
+	width: 100%;
+	bottom: 0;
+	/* background-color: rgb(255, 255, 41); */
+	/* border: 0.2px solid red; */
+	display: flex;
+	flex-direction: row;
+}
+
+.itime {
+	height: 100%;
+	width: 6%;
+	/* background-color: burlywood; */
+	color: rgb(167, 167, 167);
+	font-family: CircularStd, sans-serif;
+	font-size: 11px;
+}
+
+.iprogress {
+	height: 100%;
+	width: 100%;
+	padding: 0px 10px;
+}
+
+.iprogcont {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding-top: 2px;
+}
+
+.iplaybarsecc {
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	align-items: center;
+	gap: 15px;
+}
+.ivolumebarnicon {
+	display: flex;
+	flex-direction: row;
+}
+.ivolumebar {
+	margin-left: 12px;
+	width: 93px;
+	height: auto;
+	display: flex;
+	align-items: center;
+}
+
+/* MAIN  */
+.imothermain {
+	background-color: bisque;
+	height: calc(100vh - 90px);
+	width: calc(100vw - 393px);
+	display: flex;
+	flex-direction: column;
+}
+
+.inavbar {
+	height: 64px;
+	width: 100%;
+	background-color: burlywood;
+}
+
+.imain {
+	background-color: bisque;
+	width: 100%;
+	height: 100%;
+}

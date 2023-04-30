@@ -1,0 +1,7 @@
+.scrollbarnoneC {
+  /* position: fixed; */
+  height: calc(100vh - 60px);
+  padding-top: 60px;
+  /* height: 100vh; */
+  z-index: 0;
+}

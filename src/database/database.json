@@ -1,0 +1,621 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "test",
+      "email": "test@mail.com",
+      "password": "12345678",
+      "Birthdate": "",
+      "gender": "Male"
+    },
+    {
+      "email": "reynaldibong@gmail.com",
+      "name": "Rey",
+      "password": "Reynaldi08!",
+      "gender": "Male",
+      "birthdate": "2001-09-07T17:00:00.000Z",
+      "id": 2
+    },
+    {
+      "email": "reynaldboong@gmail.com",
+      "name": "dffsfs",
+      "password": "erereerer@1A",
+      "gender": "Male",
+      "birthdate": "1212-03-11T17:17:56.000Z",
+      "id": 3
+    }
+  ],
+  "musics": [
+    {
+      "id": 1,
+      "title": "Pagodão do Birimbola ( Tchubirabirom )",
+      "singer": "Machadez, Os Quebradiras",
+      "src": "Pagodão do Birimbola ( Tchubirabirom ) - Machadez, Os Quebradiras, Mousik - lyrics.mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "title": "Dawin",
+      "singer": "Dessert",
+      "src": "Dawin - Dessert (Official Lyric Video).mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "title": "Whistle [Official Video]",
+      "singer": "Flo Rida",
+      "src": "Flo Rida - Whistle [Official Video].mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "title": "Timber (Official Video) ft. Ke$ha",
+      "singer": "Pitbull",
+      "src": "Pitbull - Timber (Official Video) ft. Ke$ha.mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "title": "Starships",
+      "singer": "Machadez, Os Quebradiras",
+      "src": "Starships.mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "title": "Ending Scene",
+      "singer": "IU",
+      "src": "[MV] IU(아이유) _ Ending Scene(이런 엔딩).mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "title": "Side To Side ",
+      "singer": "Ariana Grande",
+      "src": "Ariana Grande ft. Nicki Minaj - Side To Side (Official Video) ft. Nicki Minaj.mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "title": "when the party's over",
+      "singer": "Billie Eilish",
+      "src": "Billie Eilish - when the party's over.mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "title": "Coldplay X BTS - My Universe (Official Lyric Video)",
+      "singer": "Coldplay X BTS",
+      "src": "Coldplay X BTS - My Universe (Official Lyric Video).mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "title": "Dear Name _ 이름에게",
+      "singer": "IU.mp4",
+      "src": "Dear Name _ 이름에게 - IU Lyrics [Han,Rom,Eng].mp4.mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 11,
+      "title": "《你，好不好？ How Have You Been_》",
+      "singer": "Eric周興哲",
+      "src": "Eric周興哲《你，好不好？ How Have You Been_》Official Music Video《遺憾拼圖》片尾曲.mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 12,
+      "title": "Love Poem (Easy Lyrics)",
+      "singer": "IU (아이유)",
+      "src": "IU (아이유) - Love Poem (Easy Lyrics).mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 13,
+      "title": "‘꽃(FLOWER)’ M_V",
+      "singer": "JISOO",
+      "src": "JISOO - ‘꽃(FLOWER)’ M_V.mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 14,
+      "title": "Justin Bieber",
+      "singer": "Despacito",
+      "src": "Justin Bieber - Despacito (Lyrics _ Letra) ft. Luis Fonsi & Daddy Yankee.mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 15,
+      "title": "Kanashimi wo Yasashisani ni",
+      "singer": "Little by Little",
+      "src": "Kanashimi wo Yasashisani ni.mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 16,
+      "title": "Tak Ingin Usai",
+      "singer": "Keisya Levronka",
+      "src": "Keisya Levronka - Tak Ingin Usai (Official Music Video).mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 17,
+      "title": "Pesan Terakhir ",
+      "singer": "Lyodra",
+      "src": "Lyodra - Pesan Terakhir (Official Music Video).mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 18,
+      "title": "Hero's Come Back (HD)",
+      "singer": "Rocks",
+      "src": "Naruto Shippuden Opening 1 _ Hero's Come Back (HD).mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 19,
+      "title": "Naruto Shippuden Opening 6 _ Sign (HD)",
+      "singer": "FLOW",
+      "src": "Naruto Shippuden Opening 6 _ Sign (HD).mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 20,
+      "title": "(뉴진스) 'OMG' Official MV",
+      "singer": "NewJeans",
+      "src": "NewJeans (뉴진스) 'OMG' Official MV (Performance ver.1).mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 21,
+      "title": "Everything Has Changed ft Ed Sheeran (Taylor’s Version)",
+      "singer": "Taylor Swift",
+      "src": "Taylor Swift - Everything Has Changed ft Ed Sheeran (Taylor’s Version) _ Lirik Terjemahan.mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 22,
+      "title": "dai ni qu lu xing",
+      "singer": "校長",
+      "src": "校長 - 帶你去旅行 dai ni qu lu xing (lirik dan terjemahan).mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 23,
+      "title": "Waktu Yang Salah",
+      "singer": "Fiersa Besari(feat. Thantri Sundari)",
+      "src": "Waktu Yang Salah (feat. Thantri Sundari).mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 24,
+      "title": "YOASOBI「アイドル",
+      "singer": "YOASOBI",
+      "src": "YOASOBI「アイドル」 Official Music Video.mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 25,
+      "title": "YOASOBI「たぶん」",
+      "singer": "YOASOBI",
+      "src": "YOASOBI「たぶん」Official Music  Video.mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 26,
+      "title": "(YOASOBI - Monster)",
+      "singer": "YOASOBI",
+      "src": "YOASOBI「怪物」Official Music Video　(YOASOBI - Monster).mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 27,
+      "title": "告白氣球（周二珂 cover）",
+      "singer": "周杰倫",
+      "src": "告白氣球-周杰倫（周二珂 cover）.mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    },
+    {
+      "id": 28,
+      "title": "告白氣球（周二珂 cover）",
+      "singer": "周杰倫",
+      "src": "告白氣球-周杰倫（周二珂 cover）.mp3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+    }
+  ],
+  "playlist": [
+    {
+      "imgURL": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/0/5/a/f/6061-77a0-42db-ba4d-7d9888694108.jpg",
+      "playlist": "Music Mix",
+      "desc": "Pitbull, Nicki Minaj",
+      "id": "1",
+      "type": "playlist2",
+      "list": [
+        {
+          "id": 4,
+          "title": "Timber (Official Video) ft. Ke$ha",
+          "singer": "Pitbull",
+          "src": "Pitbull - Timber (Official Video) ft. Ke$ha.mp3",
+          "img": "https://i.pinimg.com/564x/dc/5d/31/dc5d319f69540bd09ce9eff82e54154f.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Starships",
+          "singer": "Nicki Minaj",
+          "src": "Starships.mp3",
+          "img": "https://i.pinimg.com/564x/22/f8/6f/22f86fc79af346c30d4742dd9bf081fb.jpg"
+        }
+      ],
+      "createBy": "test@mail.com",
+      "createdBy": "test@mail.com"
+    },
+    {
+      "imgURL": "https://i.pinimg.com/736x/82/67/4e/82674e2de6f2f1631e4078bf02d8d38f.jpg",
+      "playlist": "Korean Mix 한국어 믹스",
+      "desc": "Coldplay Ft. BTS, Jisoo, NewJeans",
+      "id": "2",
+      "type": "playlist1",
+      "list": [
+        {
+          "id": 4,
+          "title": "My Universe",
+          "singer": "Coldplay X BTS",
+          "src": "Coldplay X BTS - My Universe (Official Lyric Video).mp3",
+          "img": "https://i.ytimg.com/vi/bZYPI4mYwhw/maxresdefault.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Jisoo 꽃_(FLOWER)",
+          "singer": "Jisoo",
+          "src": "JISOO - ‘꽃(FLOWER)’ M_V.mp3",
+          "img": "https://i.ytimg.com/vi/YudHcBIxlYw/maxresdefault.jpg"
+        },
+        {
+          "id": 5,
+          "title": "OMG",
+          "singer": "NewJeans",
+          "src": "NewJeans (뉴진스) 'OMG' Official MV (Performance ver.1).mp3",
+          "img": "https://img2.beritasatu.com/cache/beritasatu/910x580-2/2023/03/1678766352-1246x755.webp"
+        }
+      ],
+      "createBy": "test@mail.com"
+    },
+    {
+      "imgURL": "https://i.pinimg.com/736x/39/9c/f0/399cf0c515d6eb8db7fdb3b0212c9133.jpg",
+      "playlist": "Top Hits 2018 ",
+      "desc": "Ariana Grande, Taylor Swift, Billie Eillsh",
+      "id": "3",
+      "type": "playlist2",
+      "list": [
+        {
+          "id": 1,
+          "title": "Side To Side (Official Video) ft. Nicki Minaj",
+          "singer": "Ariana Grande ft. Nicki Minaj",
+          "src": "Ariana Grande ft. Nicki Minaj - Side To Side (Official Video) ft. Nicki Minaj.mp3",
+          "img": "https://c4.wallpaperflare.com/wallpaper/269/681/285/portrait-5k-ariana-grande-wallpaper-preview.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Everything Has Changed  ",
+          "singer": "Taylor Swift ft Ed Sheeran ",
+          "src": "Taylor Swift - Everything Has Changed ft Ed Sheeran (Taylor’s Version) _ Lirik Terjemahan.mp3",
+          "img": "https://w0.peakpx.com/wallpaper/340/542/HD-wallpaper-taylor-swift-latest-taylor-swift-music-celebrities-singer-thumbnail.jpg"
+        },
+        {
+          "id": 3,
+          "title": "When the party's over",
+          "singer": "Billie Eilish",
+          "src": "Billie Eilish - when the party's over.mp3",
+          "img": "https://w0.peakpx.com/wallpaper/120/442/HD-wallpaper-billie-eilish-billie-eilish-thumbnail.jpg"
+        }
+      ],
+      "createBy": "spotify"
+    },
+    {
+      "imgURL": "https://img.wattpad.com/48cba4223c02540b5987aa011388bc3994175bda/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f634250656e672d5562785a446e513d3d2d3932393836393739312e313632373136633635376364633637343534373937353537333734312e6a7067?s=fit&w=720&h=720",
+      "playlist": "Indonesian MIX",
+      "desc": "Lyodra, Keisya Levronka, Fiersa Besari",
+      "id": "4",
+      "type": "playlist1",
+      "list": [
+        {
+          "id": 4,
+          "title": "Pesan Terakhir (Official Music Video)",
+          "singer": "Lyodra",
+          "src": "Lyodra - Pesan Terakhir (Official Music Video).mp3",
+          "img": "https://wallpapercave.com/dwp1x/wp11341743.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Tak Ingin Usai (Official Music Video)",
+          "singer": "Keisya Levronka",
+          "src": "Keisya Levronka - Tak Ingin Usai (Official Music Video).mp3",
+          "img": "https://i.pinimg.com/564x/d0/1b/f1/d01bf131b3b5107b8bfdb347f311917f.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Waktu Yang Salah",
+          "singer": "Fiersa Besari(feat. Thantri Sundari)",
+          "src": "Waktu Yang Salah (feat. Thantri Sundari).mp3",
+          "img": "https://yt3.googleusercontent.com/Z--FCFCz91bchg0B0Yx3NU7HKKeAbWQsLat73HFAMHFL1wDDgKuqoaH4eft0dcwxea0ocoDmtA=s900-c-k-c0x00ffffff-no-rj"
+        }
+      ],
+      "createBy": "spotify"
+    },
+    {
+      "imgURL": "https://i.pinimg.com/originals/80/6e/d8/806ed882d4878d076f490e50f1733717.jpg",
+      "playlist": "EDM MUSICS",
+      "desc": "Dawin, Flo Rida, Machadez",
+      "id": "5",
+      "type": "playlist1",
+      "list": [
+        {
+          "id": 1,
+          "title": "Pagodão do Birimbola ( Tchubirabirom )",
+          "singer": "Machadez, Os Quebradiras",
+          "src": "Pagodão do Birimbola ( Tchubirabirom ) - Machadez, Os Quebradiras, Mousik - lyrics.mp3",
+          "img": "https://gazeta24h.com/wp-content/uploads/2022/12/Pagodao-do-Birimbola-Tchubirabirom.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Dawin",
+          "singer": "Dessert",
+          "src": "Dawin - Dessert (Official Lyric Video).mp3",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Dawin_-_Dessert_%28Official_Single_Cover%29.png"
+        },
+        {
+          "id": 3,
+          "title": "Whistle [Official Video]",
+          "singer": "Flo Rida",
+          "src": "Flo Rida - Whistle [Official Video].mp3",
+          "img": "https://i.pinimg.com/564x/69/79/bd/6979bd9b038a40711dd350fb9facc8b7.jpg"
+        }
+      ],
+      "createBy": "spotify"
+    },
+    {
+      "imgURL": "https://i.pinimg.com/736x/80/b2/45/80b2455c9f6f7cf429e1926d1a429419.jpg",
+      "playlist": "NARUTO OST なると",
+      "desc": "Naruto",
+      "id": "7",
+      "type": "playlist2",
+      "list": [
+        {
+          "id": 1,
+          "title": "Naruto Shippuden Opening 6 _ Sign (HD)",
+          "singer": "FLOW",
+          "src": "Naruto Shippuden Opening 6 _ Sign (HD).mp3",
+          "img": "https://3.bp.blogspot.com/-xzey27XaHi0/WKfmflFKDMI/AAAAAAAAFAE/1-qcRqT9X0sqLHiBk5_AU8t329ZrgwaWQCEw/w680/jiraiya.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Naruto Shippuden Opening 1 _ Hero's Come Back!! (HD)",
+          "singer": "Rocks",
+          "src": "Naruto Shippuden Opening 1 _ Hero's Come Back (HD).mp3",
+          "img": "https://i1.sndcdn.com/artworks-000118890390-ohyoka-t500x500.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Kanashimi wo Yasashisani ni",
+          "singer": "Little by Little",
+          "src": "Kanashimi wo Yasashisani ni.mp3",
+          "img": "https://i.pinimg.com/736x/a7/2b/d1/a72bd1418e4a7cb2bbe8a913b95ee305.jpg"
+        }
+      ],
+      "createBy": "spotify"
+    },
+    {
+      "imgURL": "https://c4.wallpaperflare.com/wallpaper/805/369/259/iu-portrait-hd-wallpaper-preview.jpg",
+      "playlist": "IU Playlist",
+      "desc": "IU",
+      "id": "6",
+      "type": "playlist1",
+      "list": [
+        {
+          "id": 1,
+          "title": "Dear name",
+          "singer": "IU",
+          "src": "Dear Name _ 이름에게 - IU Lyrics [Han,Rom,Eng].mp4.mp3",
+          "img": "https://c4.wallpaperflare.com/wallpaper/701/421/264/iu-iu-lee-ji-eun-hd-wallpaper-preview.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Love Poem",
+          "singer": "IU",
+          "src": "IU (아이유) - Love Poem (Easy Lyrics).mp3",
+          "img": "https://c4.wallpaperflare.com/wallpaper/305/143/750/iu-iu-lee-ji-eun-hd-wallpaper-preview.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Ending Scene",
+          "singer": "IU",
+          "src": "[MV] IU(아이유) _ Ending Scene(이런 엔딩).mp3",
+          "img": "https://c4.wallpaperflare.com/wallpaper/333/730/341/iu-iu-lee-ji-eun-hd-wallpaper-preview.jpg"
+        }
+      ],
+      "createBy": "spotify"
+    },
+    {
+      "imgURL": "https://www.hypnoticasia.com/wp-content/uploads/2018/02/27073196_1703069893049630_4191716571631264594_n.jpg",
+      "playlist": "MANDARIN 二千零",
+      "desc": "Eric Chou, 校長, 告白氣球 ",
+      "id": "8",
+      "type": "playlist2",
+      "list": [
+        {
+          "id": 4,
+          "title": "《你，好不好？ How Have You Been_》",
+          "singer": "Eric",
+          "src": "Eric周興哲《你，好不好？ How Have You Been_》Official Music Video《遺憾拼圖》片尾曲.mp3",
+          "img": "https://i.pinimg.com/736x/b3/b3/07/b3b3078ee99e2d5c6ef0d76f6a71043b.jpg"
+        },
+        {
+          "id": 4,
+          "title": "告白氣球-周杰倫（周二珂 cover）",
+          "singer": "告白氣球",
+          "src": "告白氣球-周杰倫（周二珂 cover）.mp3",
+          "img": "https://i.pinimg.com/236x/b3/b4/de/b3b4de54679d93edfc3d402d62340895.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Dai ni qu lu xing",
+          "singer": "校長",
+          "src": "校長 - 帶你去旅行 dai ni qu lu xing (lirik dan terjemahan).mp3",
+          "img": "https://i.pinimg.com/564x/b8/0a/9d/b80a9dfd03a65f4aaea6f7b9f2185945.jpg"
+        }
+      ],
+      "createBy": "spotify"
+    },
+    {
+      "imgURL": "https://i.pinimg.com/736x/db/90/35/db9035bbd71588289b960546b1b14db4.jpg",
+      "playlist": "YOASOBI",
+      "desc": "By Yoasobi",
+      "id": "9",
+      "type": "playlist1",
+      "list": [
+        {
+          "id": 1,
+          "title": "YOASOBI「アイドル」",
+          "singer": "YOASOBI",
+          "src": "YOASOBI「アイドル」 Official Music Video.mp3",
+          "img": "https://i.pinimg.com/564x/b7/75/e1/b775e17ca67b88811f22968c9ff549b6.jpg"
+        },
+        {
+          "id": 2,
+          "title": "YOASOBI「怪物」(YOASOBI - Monster)",
+          "singer": "YOASOBI",
+          "src": "YOASOBI「怪物」Official Music Video　(YOASOBI - Monster).mp3",
+          "img": "https://i.pinimg.com/564x/94/82/d6/9482d62d87a5f88773ba8b327ce78010.jpg"
+        },
+        {
+          "id": 3,
+          "title": "YOASOBI「怪物」",
+          "singer": "YOASOBI",
+          "src": "YOASOBI「怪物」.mp3",
+          "img": "https://i.pinimg.com/564x/8e/45/49/8e45493c6a8792815bfdbf0296ab03b7.jpg"
+        }
+      ],
+      "createBy": "spotify"
+    },
+    {
+      "imgURL": "yy",
+      "playlist": "yyyy",
+      "desc": "yyy",
+      "createBy": "test@mail.com",
+      "list": [
+        {
+          "id": 1,
+          "title": "Pagodão do Birimbola ( Tchubirabirom )",
+          "singer": "Machadez, Os Quebradiras",
+          "src": "Pagodão do Birimbola ( Tchubirabirom ) - Machadez, Os Quebradiras, Mousik - lyrics.mp3",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+        },
+        {
+          "id": 2,
+          "title": "Dawin",
+          "singer": "Dessert",
+          "src": "Dawin - Dessert (Official Lyric Video).mp3",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+        },
+        {
+          "id": 3,
+          "title": "Whistle [Official Video]",
+          "singer": "Flo Rida",
+          "src": "Flo Rida - Whistle [Official Video].mp3",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+        }
+      ],
+      "id": "A8VY4ho"
+    },
+    {
+      "imgURL": "yy",
+      "playlist": "yyyy",
+      "desc": "yyy",
+      "createBy": "test@mail.com",
+      "list": [
+        {
+          "id": 1,
+          "title": "Pagodão do Birimbola ( Tchubirabirom )",
+          "singer": "Machadez, Os Quebradiras",
+          "src": "Pagodão do Birimbola ( Tchubirabirom ) - Machadez, Os Quebradiras, Mousik - lyrics.mp3",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+        },
+        {
+          "id": 2,
+          "title": "Dawin",
+          "singer": "Dessert",
+          "src": "Dawin - Dessert (Official Lyric Video).mp3",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+        },
+        {
+          "id": 3,
+          "title": "Whistle [Official Video]",
+          "singer": "Flo Rida",
+          "src": "Flo Rida - Whistle [Official Video].mp3",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+        }
+      ],
+      "id": "HQtcL-s"
+    },
+    {
+      "imgURL": "",
+      "playlist": "",
+      "desc": "",
+      "createBy": "test@mail.com",
+      "list": [
+        {
+          "id": 16,
+          "title": "Tak Ingin Usai",
+          "singer": "Keisya Levronka",
+          "src": "Keisya Levronka - Tak Ingin Usai (Official Music Video).mp3",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+        },
+        {
+          "id": 17,
+          "title": "Pesan Terakhir ",
+          "singer": "Lyodra",
+          "src": "Lyodra - Pesan Terakhir (Official Music Video).mp3",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+        },
+        {
+          "id": 18,
+          "title": "Hero's Come Back (HD)",
+          "singer": "Rocks",
+          "src": "Naruto Shippuden Opening 1 _ Hero's Come Back (HD).mp3",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+        }
+      ],
+      "id": "J6Y13Vi"
+    },
+    {
+      "imgURL": "yyy",
+      "playlist": "ddd",
+      "desc": "ddd",
+      "createBy": "test@mail.com",
+      "list": [
+        {
+          "id": 16,
+          "title": "Tak Ingin Usai",
+          "singer": "Keisya Levronka",
+          "src": "Keisya Levronka - Tak Ingin Usai (Official Music Video).mp3",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+        },
+        {
+          "id": 17,
+          "title": "Pesan Terakhir ",
+          "singer": "Lyodra",
+          "src": "Lyodra - Pesan Terakhir (Official Music Video).mp3",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+        },
+        {
+          "id": 18,
+          "title": "Hero's Come Back (HD)",
+          "singer": "Rocks",
+          "src": "Naruto Shippuden Opening 1 _ Hero's Come Back (HD).mp3",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx17x4KQjvkqSU91X0x9Psk_WniWo5Pis5GA&usqp=CAU"
+        }
+      ],
+      "id": "ez25XN6"
+    }
+  ]
+}
